@@ -1,9 +1,8 @@
 package com.example.git_example;
 
-
-public class School {
+public class Book {
     private Long id;
     private String name;
-    private String address;
+    private String author;
 
 }
